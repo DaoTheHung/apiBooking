@@ -31,7 +31,7 @@ const dataB = [
     },
     {
         id: 8,
-        title: "Trung tâm Khám sức khỏe định kỳ, Bệnh viện Trung ương Quân đội 108",
+        title: "Trung tâm Khám sức khỏe định kỳ",
         image: "https://cdn.bookingcare.vn/fr/w500/2023/01/11/163604-223000085957trung-tam-kham-suc-khoe-dinh-ky-108.jpg"
     },
     {
@@ -43,3 +43,6 @@ const dataB = [
 
 
 ]
+module.exports = {
+    dataB,
+}
